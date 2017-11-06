@@ -1,0 +1,11 @@
+README.rst
+setup.cfg
+setup.py
+colort/__init__.py
+colort/__main__.py
+colort/colort.py
+colort.egg-info/PKG-INFO
+colort.egg-info/SOURCES.txt
+colort.egg-info/dependency_links.txt
+colort.egg-info/entry_points.txt
+colort.egg-info/top_level.txt
