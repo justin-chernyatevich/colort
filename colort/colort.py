@@ -1,7 +1,6 @@
 import sys
 import colorama
 import re
-import array
 import random
 from termcolor import colored, cprint
 
